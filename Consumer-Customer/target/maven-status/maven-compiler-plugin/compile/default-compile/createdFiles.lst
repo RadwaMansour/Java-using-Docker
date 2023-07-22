@@ -1,0 +1,8 @@
+domain\dto\MealDto.class
+service\CustomerService.class
+domain\Meal.class
+config\Config.class
+controller\CustomerController.class
+repository\MealRepository.class
+ConsumerCustomerApplication.class
+service\consumer\Consumer.class
