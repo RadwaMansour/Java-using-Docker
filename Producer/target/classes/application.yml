@@ -1,0 +1,11 @@
+server:
+ port: 8080
+topic:
+   name: t.meal
+
+
+spring:
+  Kafka:
+    bootstrap-servers: 'Kafka:29092'
+
+
